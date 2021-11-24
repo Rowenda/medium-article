@@ -1,0 +1,39 @@
+body{
+  font-size: 2vw;
+}
+
+header {
+  background-image: url("https://source.unsplash.com/random/1000x500");
+  background-size: cover;
+}
+
+.banner {
+  width: 20vw;
+  height: 30vw;
+  color: antiquewhite;
+  margin: 50px auto;
+}
+
+h1 {
+  padding-top: 10vw;
+}
+
+h1, .banner p {
+    text-align: center;
+}
+
+.container {
+  margin: 10vw auto;
+}
+
+a {
+  background-color: cadetblue;
+  font-style: italic;
+  font-size: 5vw;
+  color: brown;
+}
+
+a:hover {
+  background-color: brown;
+  color: cadetblue;
+}

@@ -11,7 +11,7 @@ header {
   width: 20vw;
   height: 30vw;
   color: antiquewhite;
-  margin: 50px auto;
+  margin: 5vw auto;
 }
 
 h1 {
@@ -24,6 +24,7 @@ h1, .banner p {
 
 .container {
   margin: 10vw auto;
+  padding-left: 15vw;
 }
 
 a {
